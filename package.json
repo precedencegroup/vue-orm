@@ -1,0 +1,16 @@
+{
+	"name": "@precedence/vue-orm",
+	"description": "A vue/vuex library to wrap your API resources in a reactive ORM shell",
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "precedencegroup/vue-orm",
+	"main": "index.js",
+	"keywords": [
+		"vue",
+		"vuex",
+		"orm",
+		"api",
+		"resource",
+		"laravel"
+	]
+}
